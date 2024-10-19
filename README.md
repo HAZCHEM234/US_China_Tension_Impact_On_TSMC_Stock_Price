@@ -30,4 +30,5 @@ This repository contains files related to the analysis of the impact of geopolit
 
 This repository explores sentiment analysis related to geopolitical tensions between the US and China and its impact on TSMC's stock price.
 
+![Sentiment Image](https://raw.githubusercontent.com/HAZCHEM234/US_China_Tension_Impact_On_TSMC_Stock_Price/main/Sentiment.jpg)
 
