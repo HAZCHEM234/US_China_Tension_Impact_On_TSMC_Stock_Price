@@ -29,3 +29,5 @@ This repository contains files related to the analysis of the impact of geopolit
 ### Key Insights
 
 This repository explores sentiment analysis related to geopolitical tensions between the US and China and its impact on TSMC's stock price.
+
+
