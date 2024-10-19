@@ -32,3 +32,6 @@ This repository explores sentiment analysis related to geopolitical tensions bet
 
 ![Sentiment Image](https://raw.githubusercontent.com/HAZCHEM234/US_China_Tension_Impact_On_TSMC_Stock_Price/main/Sentiment.jpg)
 
+![image](https://github.com/user-attachments/assets/78e41349-64d7-4efc-b38f-07d9836ca52f)
+
+
