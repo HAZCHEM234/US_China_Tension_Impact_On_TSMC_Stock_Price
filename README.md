@@ -1,4 +1,4 @@
-# HAZCHEM234
+# US-China Geopolitcal Tension impact on TSMC Stock Price Analysis
 
 ## Final Report Presentation
 
